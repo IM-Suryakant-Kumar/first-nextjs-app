@@ -3,6 +3,7 @@ import LinkSection from "@/app/ui/linksection";
 import AboutSection from "@/app/ui/aboutsection";
 import CourseDetails from "@/app/ui/coursedetails";
 import AboutInstructor from "@/app/ui/aboutinstructor";
+import BottomBanner from "@/app/ui/bottombanner";
 
 export default function Home() {
 	return (
@@ -12,6 +13,7 @@ export default function Home() {
       <CourseDetails />
       <AboutSection />
       <AboutInstructor />
+      <BottomBanner />
 		</main>
 	);
 }
