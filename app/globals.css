@@ -20,3 +20,21 @@ body {
   color: #292929;
   background: white;
 }
+
+.lists > * > * {
+  margin: 0.2em 0;
+  font-size: small;
+}
+
+.lists > * > *:first-child {
+  margin-top: 1em;
+}
+
+.lists > * > *::before {
+  content: "✔️";
+  width: 15px;
+  height: 15px;
+  margin-right: 2em;
+}
+
+
