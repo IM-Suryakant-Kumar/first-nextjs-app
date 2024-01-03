@@ -2,6 +2,7 @@ import Banner from "@/app/ui/banner";
 import LinkSection from "@/app/ui/linksection";
 import AboutSection from "@/app/ui/aboutsection";
 import CourseDetails from "@/app/ui/coursedetails";
+import AboutInstructor from "@/app/ui/aboutinstructor";
 
 export default function Home() {
 	return (
@@ -10,6 +11,7 @@ export default function Home() {
       <LinkSection />
       <CourseDetails />
       <AboutSection />
+      <AboutInstructor />
 		</main>
 	);
 }

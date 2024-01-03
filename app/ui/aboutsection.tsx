@@ -39,7 +39,7 @@ const AboutSection = () => {
 				<h4 className="font-bold ">Key topics covered</h4>
         <p className="text-sm mt-[1em] mb-[1.5em]">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum molestiae debitis natus laudantium sequi sit veniam tempore aliquam repellat aliquid saepe soluta alias, ipsam aut numquam adipisci explicabo vitae asperiores, porro corrupti dolorem? Nemo adipisci atque nulla rerum voluptatibus? Incidunt eveniet ipsam iure molestias amet dolor, impedit totam saepe nostrum!</p>
 				<ol className="list-none text-xs">
-					<li className="flex gap-[1em] mt-[1em]">
+					<li className="flex gap-[1.5em] mt-[1em]">
 						<span>✔️</span>
 						<span>
 							<strong>10 written and audio sessions</strong> guiding you in
@@ -47,7 +47,7 @@ const AboutSection = () => {
 							their insights and messages.
 						</span>
 					</li>
-					<li className="flex gap-[1em] mt-[1em]">
+					<li className="flex gap-[1.5em] mt-[1em]">
 						<span>✔️</span>
 						<span>
 							<strong>Intuitive exercises and homework</strong> walk you through
@@ -55,7 +55,7 @@ const AboutSection = () => {
 							become your own authority.
 						</span>
 					</li>
-					<li className="flex gap-[1em] mt-[1em]">
+					<li className="flex gap-[1.5em] mt-[1em]">
 						<span>✔️</span>
 						<span>
 							<strong>A Handy reference</strong> to numerical meanings, so you
@@ -63,7 +63,7 @@ const AboutSection = () => {
 							purpose – and receive spiritual guidance along your path.
 						</span>
 					</li>
-					<li className="flex gap-[1em] mt-[1em]">
+					<li className="flex gap-[1.5em] mt-[1em]">
 						<span>✔️</span>
 						<span>
 							<strong>Expert techniques</strong> for manifestation offer simple ways to use
